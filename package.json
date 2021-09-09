@@ -1,0 +1,12 @@
+{
+  "name": "nodemon-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./index.js",
+  "main": "./index.js",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "express": "^4.17.1"
+  }
+}
